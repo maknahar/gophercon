@@ -30,11 +30,11 @@
 
 	Example: degrees Amitabh-Bachchan Robert-De-Niro
 
-#NOTE :
+##NOTE :
 
 1. If you get any tcp error then decrease the rate-count value in the config file conf.json.
 
-#Examples
+##Examples
 ```
 $ ./degrees Jennifer-Lawrence meryl-streep
 Time Taken:  855.773733ms
